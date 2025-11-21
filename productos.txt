@@ -1,0 +1,5 @@
+10|Pantalon blanco|200|Ropa de gala
+16|Camisa blanca|150|Ropa de gala
+45|Gabardina cafe|600|Ropa elegante
+55|Zapatos cafes|359|Zapato de vestir
+55|Chaleco de traje|566|Ropa elegante
