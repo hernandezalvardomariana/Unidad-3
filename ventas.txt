@@ -1,0 +1,5 @@
+Chaleco de traje|566.0|1000|566000.0
+Zapatos cafes|359.0|453|162627.0
+Gabardina cafe|600.0|535|321000.0
+Camisa blanca|150.0|586|87900.0
+Pantalon blanco|200.0|555|111000.0
